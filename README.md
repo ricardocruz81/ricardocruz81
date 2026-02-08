@@ -104,7 +104,7 @@ Expert in scalable, secure, high-performance Azure & hybrid architectures.
 
 ## 🐍 Contribution Snake
 <p align="center">
-<img src="https://github.com/ricardocruz81/ricardocruz81/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ricardocruz81/ricardocruz81/main/dist/github-contribution-grid-snake.svg">
 </p>
 
 <hr/>
