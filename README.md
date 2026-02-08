@@ -1,40 +1,136 @@
-<h1 align="center">Hi 👋, I'm Ricardo Cruz</h1>
-<h3 align="center">Azure Cloud Application Architect with 15+ years of experience delivering enterprise cloud, data, and DevOps solutions. Expert in designing scalable, secure, and high-performance architectures across Azure and hybrid environments. Strong background in data engineering, automation, and system integration.</h3>
+<h1 align="center" style="color:#60a5fa;">Hi 👋, I'm Ricardo Cruz</h1>
+<h3 align="center" style="color:#e0f2fe;">
+Azure Cloud Application Architect | Cloud • Data • DevOps
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardocruz81&label=Profile%20views&color=0e75b6&style=flat" alt="ricardocruz81" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardocruz81" alt="ricardocruz81" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ricardocruz" target="blank"><img src="https://img.shields.io/twitter/follow/ricardocruz?logo=twitter&style=for-the-badge" alt="ricardocruz" /></a> </p>
-
-- 🌱 I’m currently learning **AZ-204, AZ-400, AZ-305, AWS**
-
-- 📫 How to reach me **ricardojcruz@live.co.uk**
-
-- ⚡ Fun fact **Love working on break fix technologies**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ricardocruz81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ricardocruz81" height="30" width="40" /></a>
-<a href="https://twitter.com/ricardocruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ricardocruz" height="30" width="40" /></a>
-<a href="/ricardocruz81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ricardocruz81" height="30" width="40" /></a>
+<p align="center" style="background-color:#1e293b;padding:15px;border-radius:12px;">
+15+ years delivering enterprise cloud, data & DevOps solutions.  
+Expert in scalable, secure, high-performance Azure & hybrid architectures.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ricardocruz81&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
+<hr/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ricardocruz81"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ricardocruz81" /></a></p><br><br>
+<!-- ================= CLOUD SKILLS ================= -->
 
+## ☁️ Cloud & Platform Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardocruz81&show_icons=true&locale=en&layout=compact" alt="ricardocruz81" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Azure-90%25-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-75%25-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-85%25-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-80%25-green?style=for-the-badge"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardocruz81&show_icons=true&locale=en" alt="ricardocruz81" /></p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardocruz81&" alt="ricardocruz81" /></p>
+<!-- ================= LANGUAGES & TOOLS ================= -->
 
+## 🧰 Languages & Tools
+
+<div style="background-color:#0f172a;padding:20px;border-radius:12px;">
+<p align="center">
+
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></a>
+<a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45"/></a>
+<a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
+<a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/></a>
+<a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
+<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/></a>
+<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/></a>
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/></a>
+<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/></a>
+<a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/></a>
+<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45"/></a>
+<a href="https://www.sqlite.org"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45"/></a>
+
+</p>
+</div>
+
+<hr/>
+
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://media.giphy.com/media/3o6Mbd0l0j2HYNV7T6/giphy.gif" width="200"/>
+<br><b>Azure Reference Architecture</b>
+</td>
+
+<td align="center">
+<img src="https://media.giphy.com/media/3o7aD4t5OaRO6y1L9G/giphy.gif" width="200"/>
+<br><b>CI/CD Automation Framework</b>
+</td>
+
+<td align="center">
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
+<br><b>Data Platform Modernization</b>
+</td>
+
+</tr>
+</table>
+
+<hr/>
+
+<!-- ================= CERTIFICATIONS ================= -->
+
+## 🏆 Certifications
+
+<p align="center">
+<img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AZ--204-Developer_Associate-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AZ--400-DevOps_Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AZ--305-Solutions_Architect-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ITIL-v3-lightgrey?style=for-the-badge"/>
+</p>
+
+<hr/>
+
+<!-- ================= SNAKE ================= -->
+
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://github.com/ricardocruz81/ricardocruz81/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<hr/>
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Stats
+
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardocruz81&theme=dark"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ricardocruz81&show_icons=true&theme=gotham"/>
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocruz81&layout=compact&theme=gotham"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=ricardocruz81&theme=flat&margin-w=15"/>
+</td>
+</tr>
+</table>
