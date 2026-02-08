@@ -24,3 +24,4 @@ jobs:
         with:
           message: "Generate contribution snake"
           add: "dist/github-contribution-grid-snake.svg"
+Create snake workflow
