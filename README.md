@@ -111,26 +111,23 @@ Expert in scalable, secure, high-performance Azure & hybrid architectures.
 
 <!-- ================= STATS ================= -->
 
-## 📊 GitHub Stats
+<!-- ===================== -->
+<!-- 📊 GITHUB STATISTICS -->
+<!-- ===================== -->
 
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardocruz81&theme=dark"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ricardocruz81&show_icons=true&theme=gotham"/>
-</td>
-</tr>
-</table>
+## 📊 My GitHub Stats
 
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocruz81&layout=compact&theme=gotham"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=ricardocruz81&theme=flat&margin-w=15"/>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ricardocruz81&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ricardocruz81&theme=radical&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocruz81&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardocruz81&theme=radical" width="48%" />
+
+</div>
+
+
+
