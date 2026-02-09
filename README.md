@@ -123,7 +123,7 @@ Expert in scalable, secure, high-performance Azure & hybrid architectures.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ricardocruz81)
 
-Switch stats to non-vercel services
+
 
 
 
