@@ -115,16 +115,17 @@ Expert in scalable, secure, high-performance Azure & hybrid architectures.
 <!-- 📊 GITHUB STATISTICS -->
 <!-- ===================== -->
 
-
 ## 📊 My GitHub Stats
 
-| GitHub Stats | Streak |
-|------------|--------|
-| ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardocruz81&show_icons=true&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=ricardocruz81&theme=radical) |
+![GitHub Stats](https://ghchart.rshah.org/ricardocruz81)
 
-| Top Languages | Profile Summary |
-|--------------|----------------|
-| ![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardocruz81&layout=compact&theme=radical) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardocruz81&theme=radical) |
+![Top Languages](https://github-readme-stats.herokuapp.com/api/top-langs/?username=ricardocruz81&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ricardocruz81)
+
+Switch stats to non-vercel services
+
+
 
 
 
