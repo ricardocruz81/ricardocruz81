@@ -120,11 +120,12 @@ Expert in scalable, secure, high-performance Azure & hybrid architectures.
 
 | GitHub Stats | Streak |
 |------------|--------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=ricardocruz81&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=ricardocruz81&theme=radical) |
+| ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardocruz81&show_icons=true&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=ricardocruz81&theme=radical) |
 
 | Top Languages | Profile Summary |
 |--------------|----------------|
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocruz81&layout=compact&theme=radical) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardocruz81&theme=radical) |
+| ![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardocruz81&layout=compact&theme=radical) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardocruz81&theme=radical) |
+
 
 
 
